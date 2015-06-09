@@ -22,5 +22,4 @@ buttonOne.addEventListener('click', function(e) {
   returnRandomString(arrayOne);
 });
 
-
 })();
